@@ -1,6 +1,3 @@
-![Repository Banner](headerimage.png)
-#### Please read [`contributing guidelines`](./contributing.md) before submitting new resources.
-
 ## Table of Contents
 
 - [UI Graphics](#ui-graphics)
